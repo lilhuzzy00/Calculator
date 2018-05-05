@@ -1,0 +1,46 @@
+input{
+	width: 100px;
+	height:80px;
+	background-color: #000;
+	color: #fff;
+	border-radius: 20px;
+	border-style: none;
+	margin: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width:512px;
+}
+.main{
+	width: 466px;
+	padding-left: 4px;
+	margin-top: -10px;
+}
+body{
+	background-color: steelblue;
+}
+h1{
+	font-size: 70px;
+}
+.main2{
+	background-color: red;
+}
+.main3{
+	background-color: green;
+}
+.main4{
+	background-color: yellow;
+}
+.main5{
+	background-color: purple;
+}
+.main6{
+	background-color: firebrick;
+}
+.main7{
+	background-color: blue;
+}
